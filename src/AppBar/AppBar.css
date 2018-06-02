@@ -1,0 +1,23 @@
+
+.AppBar-logo {
+    height: 100px;
+}
+
+.AppBar-flag {
+    height: 100px;
+    align-self: right;
+}
+
+.AppBar-header {
+    background-color: #222;
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.AppBar-title {
+    font-size: 2em;
+    width: 100%;
+}
